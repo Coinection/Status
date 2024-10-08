@@ -12,7 +12,7 @@
   --down-border-left-color: #ef4444;
 }
 
-/* Header */
+/* Header 
 nav > div { 
     height: 4rem; 
     font-size: 1rem; 
@@ -20,7 +20,7 @@ nav > div {
     font-weight: 500;
 }
 
-/* Site title */
+/* Site title 
 nav > div > div > a {
   font-weight: 700;
 }
