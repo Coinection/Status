@@ -10,6 +10,14 @@
 
   --up-border-left-color: #61a942;
   --down-border-left-color: #ef4444;
+
+  /* Nav */
+nav > div > ul > li > a {
+  border-bottom: none;
+  color: #0a0a0a99;
+  padding: 1.25rem 0.5rem;
+}
+
 }
 
 /* Header 
