@@ -6,6 +6,9 @@ sites:
   - name: Coinection
     url: https://coinection.eu
     icon: https://coinection.eu/logo.svg
+  - name: Open Coin Data
+    url: https://coinection.github.io/Open-Coin-Data/
+    icon: https://coinection.eu/logo.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
