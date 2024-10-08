@@ -8,3 +8,13 @@
   --card-background-color: #ffffff;
   --card-border-color: #ffffff;
 }
+
+nav > div > ul > li > a {
+  border-bottom: none;
+  color: #0a0a0a99;
+}
+
+[aria-current] {
+    border-bottom: none;
+    color: #0a0a0a;
+}
