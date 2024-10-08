@@ -7,6 +7,9 @@
 
   --card-background-color: #ffffff;
   --card-border-color: #ffffff;
+
+  --up-border-left-color: #61a942;
+  --down-border-left-color: #ef4444;
 }
 
 nav > div > ul > li > a {
