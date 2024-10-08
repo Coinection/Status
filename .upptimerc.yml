@@ -23,11 +23,11 @@ status-website:
   name: Coinection
   introTitle: "**Coinection**"
   introMessage: This page contains the status page of the [Coinection](https://coinection.eu) platform.
-  navbar:
-    - title: Status
-      href: /
-    - title: View website
-      href: https://coinection.eu
+  #navbar:
+  #  - title: Status
+  #    href: /
+  #  - title: View website
+  #    href: https://coinection.eu
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
