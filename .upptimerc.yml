@@ -13,7 +13,7 @@ status-website:
   #cname: status.coinection.eu
   #theme: light
   themeUrl: https://Coinection.github.io/Uptime/coinection.css
-  css: "nav > div { height: 4rem; font-size: 1rem; line-height: 1.5rem; font-weight: 500 }"
+  #css: "nav > div { height: 4rem; font-size: 1rem; line-height: 1.5rem; font-weight: 500 }"
   baseUrl: /Uptime
   logoUrl: https://coinection.eu/logo.svg
   faviconSvg: https://coinection.eu/logo.svg
