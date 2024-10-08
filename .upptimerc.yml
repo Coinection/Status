@@ -12,7 +12,7 @@ status-website:
   #cname: demo.upptime.js.org
   theme: dark
   baseUrl: /Uptime
-  logoUrl: https://coinection.eu/logo.svg
+  #logoUrl: https://coinection.eu/logo.svg
   name: Coinection
   introTitle: "**Coinection**"
   introMessage: This page contains the status page of the [Coinection](https://coinection.eu) platform.
