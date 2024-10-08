@@ -21,7 +21,7 @@
   
   /* Site title */
   nav > div > div > a {
-    font-weight: 700;
+    font-weight: 700 !important;
   }
   
   /* Nav */
