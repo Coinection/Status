@@ -11,6 +11,11 @@
   --up-border-left-color: #61a942;
   --down-border-left-color: #ef4444;
 
+  /* Header container */
+  nav {
+    padding: 0 !important;
+  }
+  
   /* Header */
   nav > div { 
       height: 4rem; 
@@ -21,6 +26,7 @@
   
   /* Site title */
   nav > div > div > a {
+    margin-right: 0 !important;
     font-weight: 700 !important;
   }
   
