@@ -1,6 +1,6 @@
 # Change these first
 owner: Coinection # Your GitHub organization or username, where this repository lives
-repo: Uptime # The name of this repository
+repo: Status # The name of this repository
 
 sites:
   - name: Coinection
@@ -15,9 +15,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: status.coinection.eu
   #theme: light
-  themeUrl: https://Coinection.github.io/Uptime/coinection.css
+  themeUrl: https://Coinection.github.io/Status/coinection.css
   #css: "nav > div { height: 4rem; font-size: 1rem; line-height: 1.5rem; font-weight: 500 }"
-  baseUrl: /Uptime
+  baseUrl: /Status
   logoUrl: https://coinection.eu/logo.svg
   faviconSvg: https://coinection.eu/logo.svg
   name: Coinection
