@@ -1,6 +1,10 @@
 :root {
   --body-background-color: #F5F5F5;
   --body-text-color: #0A0A0A;
+  
   --nav-background-color: #ffffff;
   --nav-border-bottom-color: #E5E5E5;
+
+  --card-background-color: #ffffff;
+  --card-border-color: #ffffff;
 }
