@@ -12,7 +12,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: status.coinection.eu
   #theme: light
-  themeUrl: https://coinection.eu/Uptime/coinection.css
+  themeUrl: https://raw.githubusercontent.com/Coinection/Uptime/refs/heads/master/assets/coinection.css
   baseUrl: /Uptime
   logoUrl: https://coinection.eu/logo.svg
   faviconSvg: https://coinection.eu/logo.svg
