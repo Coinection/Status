@@ -5,15 +5,17 @@ repo: Uptime # The name of this repository
 sites:
   - name: Coinection
     url: https://coinection.eu
+    icon: https://coinection.eu/logo.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: status.coinection.eu
   #theme: light
-  themeUrl: https://status.coinection.eu/coinection.css
+  themeUrl: https://coinection.eu/Uptime/coinection.css
   baseUrl: /Uptime
   logoUrl: https://coinection.eu/logo.svg
+  faviconSvg: https://coinection.eu/logo.svg
   name: Coinection
   introTitle: "**Coinection**"
   introMessage: This page contains the status page of the [Coinection](https://coinection.eu) platform.
