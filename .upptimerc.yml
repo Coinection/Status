@@ -9,10 +9,10 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.coinection.eu
+  #cname: status.coinection.eu
   #theme: light
   themeUrl: https://status.coinection.eu/coinection.css
-  #baseUrl: /Uptime
+  baseUrl: /uptime
   logoUrl: https://coinection.eu/logo.svg
   name: Coinection
   introTitle: "**Coinection**"
