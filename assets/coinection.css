@@ -11,37 +11,29 @@
   --up-border-left-color: #61a942;
   --down-border-left-color: #ef4444;
 
+  /* Header */
+  nav > div { 
+      height: 4rem; 
+      font-size: 1rem; 
+      line-height: 1.5rem; 
+      font-weight: 500;
+  }
+  
+  /* Site title */
+  nav > div > div > a {
+    font-weight: 700;
+  }
+  
   /* Nav */
-nav > div > ul > li > a {
-  border-bottom: none;
-  color: #0a0a0a99;
-  padding: 1.25rem 0.5rem;
-}
-
-}
-
-/* Header 
-nav > div { 
-    height: 4rem; 
-    font-size: 1rem; 
-    line-height: 1.5rem; 
-    font-weight: 500;
-}
-
-/* Site title 
-nav > div > div > a {
-  font-weight: 700;
-}
-
-/* Nav */
-nav > div > ul > li > a {
-  border-bottom: none;
-  color: #0a0a0a99;
-  padding: 1.25rem 0.5rem;
-}
-
-/* Nav active */
-[aria-current] {
+  nav > div > ul > li > a {
     border-bottom: none;
-    color: #0a0a0a;
+    color: #0a0a0a99;
+    padding: 1.25rem 0.5rem !important;
+  }
+  
+  /* Nav active */
+  [aria-current] {
+      border-bottom: none;
+      color: #0a0a0a;
+  }
 }
