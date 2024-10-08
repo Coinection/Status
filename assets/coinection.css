@@ -12,11 +12,27 @@
   --down-border-left-color: #ef4444;
 }
 
+/* Header */
+nav > div { 
+    height: 4rem; 
+    font-size: 1rem; 
+    line-height: 1.5rem; 
+    font-weight: 500 
+}
+
+/* Site title */
+nav > div > a {
+  font-weight: 700;
+}
+
+/* Nav */
 nav > div > ul > li > a {
   border-bottom: none;
   color: #0a0a0a99;
+  padding: 1.25rem 0.5rem
 }
 
+/* Nav active */
 [aria-current] {
     border-bottom: none;
     color: #0a0a0a;
