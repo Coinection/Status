@@ -21,7 +21,7 @@ status-website:
   logoUrl: https://coinection.eu/logo.svg
   faviconSvg: https://coinection.eu/logo.svg
   name: Coinection
-  introTitle: "**Coinection**"
+  #introTitle: "**Coinection**"
   introMessage: This page contains the status page of the [Coinection](https://coinection.eu) platform.
   #navbar:
   #  - title: Status
